@@ -1,3 +1,7 @@
+---
+permalink: /LINKS/
+---
+
 # LINKS
 
 ###1. [Introduction to Operating System](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
