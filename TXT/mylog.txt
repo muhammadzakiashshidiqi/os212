@@ -17,12 +17,3 @@ ZCZC W01 350 L09 Do all week1 assignment
 ZCZC W01 30 L06 os01 slide
 ZCZC W01 30 L06 GSGS again
 ZCZC W01 75 L80 watching movie
-ZCZC W02 20 L22 Quiz Week 1
-ZCZC W02 100 L02 Zoom Related : Monday Class
-ZCZC W02 30 L06 os02 slide
-ZCZC W02 150 L09 Do week2 assignment
-ZCZC W02 45 L09 Assignment :  Reading OS10 Chapter 16 and 17
-ZCZC W02 100 L02 Zoom Related : Thursday Class
-ZCZC W02 60 L06 GSGS about C language
-ZCZC W02 75 L80 watching movie
-
