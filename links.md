@@ -22,4 +22,12 @@ A simple video to know Cyber Security in general. This video contains full of an
 
 ### 5. [Learn C Programming](https://www.programiz.com/c-programming)
 A perfect web to learn basic of C Programming. Their C tutorials will guide you to learn C programming one step at a time.
- 
+
+## WEEK 3
+
+### 6. [File Systems in Operating System](https://www.geeksforgeeks.org/file-systems-in-operating-system/)
+A simple guide to learn File Systems. You can learn about file directory, file allocation methods, etc.
+
+### 7. [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM)
+This video explains us about how our computers read and interpret computer files. 
+Just like the other Crach Course video, this video contains a lot of visualization that help us to understand it.  

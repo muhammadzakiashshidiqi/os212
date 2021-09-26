@@ -1,6 +1,7 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
+
 ZCZC W00 100 L02 Zoom Related : First Class
 ZCZC W00 20 L03 GitHub related
 ZCZC W00 100 L02 Zoom Related : Class OS with Pak Anwar
@@ -8,6 +9,7 @@ ZCZC W00 30 L04 GitHub Pages related
 ZCZC W00 70 L10 Assignment #00
 ZCZC W00 15 L06 os00 slide related
 ZCZC W00 60 L70 Studying for other course : Forum MPPI, Essay PBP
+
 ZCZC W01 100 L02 Zoom Related : Monday Class
 ZCZC W01 15 L22 Quiz Week 0
 ZCZC W01 100 L02 Zoom Related : Thursday Class
@@ -17,6 +19,7 @@ ZCZC W01 350 L09 Do all week1 assignment
 ZCZC W01 30 L06 os01 slide
 ZCZC W01 30 L06 GSGS again
 ZCZC W01 75 L80 watching movie
+
 ZCZC W02 20 L22 Quiz Week 1
 ZCZC W02 100 L02 Zoom Related : Monday Class
 ZCZC W02 30 L06 os02 slide
@@ -25,3 +28,12 @@ ZCZC W02 45 L09 Assignment :  Reading OS10 Chapter 16 and 17
 ZCZC W02 100 L02 Zoom Related : Thursday Class
 ZCZC W02 60 L06 GSGS about C language
 ZCZC W02 75 L80 watching movie
+
+ZCZC W03 20 L22 Quiz Week 2
+ZCZC W03 100 L02 Zoom Related : Monday Class
+ZCZC W03 45 L06 os02 slide
+ZCZC W03 60 L09 Assignment : Reading OS10 Chapter 13, 14, and 15
+ZCZC W03 20 L09 Assignment : Try previous midterm problems
+ZCZC W03 100 L02 Zoom Related : Thursday Class
+ZCZC W03 120 L09 Assignment week3 (Add/Create An Extra Virtual Disk, update link, log, dll)
+ZCZC W03 60 L06 GSGS about File System
