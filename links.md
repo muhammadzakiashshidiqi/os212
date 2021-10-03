@@ -30,4 +30,13 @@ A simple guide to learn File Systems. You can learn about file directory, file a
 
 ### 7. [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM)
 This video explains us about how our computers read and interpret computer files. 
-Just like the other Crach Course video, this video contains a lot of visualization that help us to understand it.  
+Just like the other Crach Course video, this video contains a lot of visualization that help us to understand it.
+
+## WEEK 4
+
+### 8. [Logical and Physical Address in Operating System](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)
+A simple guide to learn about Logical and Physical Address. You can learn what's logical and physical address and what's the difference between them.
+
+### 9. [Introduction to pointers in C/C++](https://www.youtube.com/watch?v=h-HBipu_1P0)
+10 minutes video that explains us about pointers in C/C++ perfectly. 
+Pointers are one of the difficult concepts for beginners in C/C++, but they try to explain it very well.  

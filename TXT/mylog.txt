@@ -37,3 +37,14 @@ ZCZC W03 20 L09 Assignment : Try previous midterm problems
 ZCZC W03 100 L02 Zoom Related : Thursday Class
 ZCZC W03 120 L09 Assignment week3 (Add/Create An Extra Virtual Disk, update link, log, dll)
 ZCZC W03 60 L06 GSGS about File System
+
+ZCZC W04 25 L22 Quiz Week 3
+ZCZC W04 100 L02 Zoom Related : Monday Class
+ZCZC W04 45 L06 os04 slide
+ZCZC W04 100 L02 Zoom Related : Thursday Class
+ZCZC W04 60 L09 Assignment #1 : Reading OS10 Chapter 9
+ZCZC W04 45 L09 Assignment #2 Try W03 demos
+ZCZC W04 60 L09 Assignment #3 Try previous midterm problems
+ZCZC W04 60 L09 Assignment #4 and #5
+ZCZC W04 45 L09 Assignment #6 - #9 (Log, Links, Rank, and submit)
+ZCZC W04 60 L06 GSGS about Pointers, Logical and Physical Address, etc.
