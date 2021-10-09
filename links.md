@@ -39,4 +39,15 @@ A simple guide to learn about Logical and Physical Address. You can learn what's
 
 ### 9. [Introduction to pointers in C/C++](https://www.youtube.com/watch?v=h-HBipu_1P0)
 10 minutes video that explains us about pointers in C/C++ perfectly. 
-Pointers are one of the difficult concepts for beginners in C/C++, but they try to explain it very well.  
+Pointers are one of the difficult concepts for beginners in C/C++, but they try to explain it very well.
+
+## WEEK 5
+
+### 10. [Page Replacement Algorithms in Operating Systems](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)
+A complete guide to learn Page Replacement Algorithms. This page explains you about the algorithms (FIFO, optimal, and LRU) clearly.
+
+### 11. [What is Paging | Memory management | Operating System](https://www.youtube.com/watch?v=6c-mOFZwP_8)
+This video explains us about the concept of paging. They try to explain it clearly with some diagrams examples to help the viewers understand the concept. 
+And ya, you will understand the concept in 25 minutes (😉).
+
+  

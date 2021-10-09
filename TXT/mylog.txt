@@ -48,3 +48,14 @@ ZCZC W04 60 L09 Assignment #3 Try previous midterm problems
 ZCZC W04 60 L09 Assignment #4 and #5
 ZCZC W04 45 L09 Assignment #6 - #9 (Log, Links, Rank, and submit)
 ZCZC W04 60 L06 GSGS about Pointers, Logical and Physical Address, etc.
+
+ZCZC W05 25 L22 Quiz Week 4
+ZCZC W05 100 L02 Zoom Related : Monday Class
+ZCZC W05 30 L06 os05 slide
+ZCZC W05 100 L02 Zoom Related : Thursday Class
+ZCZC W05 45 L09 Assignment #1 : Reading OS10 Chapter 10
+ZCZC W05 60 L09 Assignment #2 & #3 Try W05 demos & previous midterm problems
+ZCZC W05 60 L09 Assignment #4
+ZCZC W05 75 L06 GSGS about Virtual memory, paging, page replacement, etc.
+ZCZC W05 45 L09 Assignment #5 - #9 (Log, Links, Rank, and submit)
+ZCZC W05 75 L05 Study for Quiz week 5
