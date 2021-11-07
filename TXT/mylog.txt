@@ -68,3 +68,12 @@ ZCZC W06 75 L09 Assignment #2 & #3 Try W06 demos & previous midterm problems
 ZCZC W06 60 L09 Assignment #4
 ZCZC W06 30 L09 Assignment #5 - #9 (Log, Links, Rank, and submit)
 ZCZC W06 75 L06 GSGS about process
+
+
+ZCZC W07 25 L22 Quiz Week 6
+ZCZC W07 45 L06 os07 slide
+ZCZC W07 50 L09 Assignment #1 : Reading OS10 Chapter 6,7 & 8
+ZCZC W07 75 L09 Assignment #2 & #3 Try W07 demos & previous midterm problems
+ZCZC W07 60 L09 Assignment #4
+ZCZC W07 30 L09 Assignment #5 - #9 (Log, Links, Rank, and submit)
+ZCZC W07 75 L06 GSGS about synchronization
